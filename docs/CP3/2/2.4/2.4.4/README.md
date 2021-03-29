@@ -3,8 +3,11 @@ sort: 1
 ---
 
 #  2.4.4. Binary Indexed (Fenwick) Tree
+
 *Lưu ý: trong mục này chỉ số của mảng được đánh số từ 1*
+
 ## Cập nhật điểm, tính tổng đoạn (RSQ)
+
 Bài toán: Cho mảng a gồm n phần tử. Có 2 loại truy vấn: 
 - Tăng giá trị phần tử a[pos] thêm lượng val.
 - Tính tổng các phần tử trong đoạn [l, r]
@@ -44,15 +47,18 @@ int main() {
 }  // return 0;
 ```
 ## Cập nhật điểm, tính min(max) đoạn (RMQ)
+
 Chú ý:
 - Tìm min(max) thì giá trị cập nhật sau phải luôn <=(>=) giá trị trước
 - Tất cả các đoạn cần tìm phải có biên trái là 1 hoặc là MAX_SIZE
 
 ## Cập nhật đoạn, tính giá trị tại 1 điểm
+
 Bài toán: Cho mảng a có n phần tử. Có 1 loại truy vấn:
 - Tăng giá trị đoạn [l, r] thêm val.
 
 Sau cùng xuất ra mảng a.
+
 ## So sánh fenwick tree và segment tree
 
 |Feature |Segment Tree| Fenwick Tree|

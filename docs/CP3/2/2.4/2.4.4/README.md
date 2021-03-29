@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 #  2.4.4. Binary Indexed (Fenwick) Tree
 *Lưu ý: trong mục này chỉ số của mảng được đánh số từ 1*
 ## Cập nhật điểm, tính tổng đoạn (RSQ)

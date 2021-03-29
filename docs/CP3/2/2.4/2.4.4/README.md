@@ -59,6 +59,7 @@ Sau cùng xuất ra mảng a.
 |Query Complexity |O(log n) |O(log n)|
 |Point Update Complexity |O(log n) |O(log n)|
 |Length of Code |Longer |Shorter|
+
 ## Quan sát phép toán i & -i
 Ví dụ: 101 -> 101+1=110 -> 110+10=1000 -> 1000+1000=10000...
 tương tự với thao tác trừ, chắc là vịt con đã nhận ra quy luật rồi nhỉ:)

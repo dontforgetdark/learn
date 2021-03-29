@@ -6,7 +6,7 @@ Bài toán: Cho mảng a gồm n phần tử. Có 2 loại truy vấn:
 - Tính tổng các phần tử trong đoạn [l, r]
 
 Code:
-```c++
+```cpp
 class FenwickTree {
  private:
   vi ft;  // recall that vi is: typedef vector<int> vi;

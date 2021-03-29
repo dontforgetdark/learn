@@ -1,1 +1,1 @@
-#  2.4.4 Binary Indexed (Fenwick) Tree
+#  2.4.4. Binary Indexed (Fenwick) Tree

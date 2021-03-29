@@ -1,1 +1,1 @@
-# 2.4. CTDL ngoài thư viện
+# 2.4 CTDL ngoài thư viện

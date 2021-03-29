@@ -51,7 +51,7 @@ Bài toán: Cho mảng a có n phần tử. Có 1 loại truy vấn:
 Sau cùng xuất ra mảng a.
 ## So sánh fenwick tree và segment tree
 |Feature |Segment Tree| Fenwick Tree|
-| :------ |:--- | :--- |
+| ------ |--- | --- |
 |Build Tree from Array| O(n) |O(m log n)|
 |Dynamic RMin/MaxQ |OK |Very limited|
 |Dynamic RSQ |OK |OK|

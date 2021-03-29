@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Docs folder
+# Mục lục
 
 {% include list.liquid all=true %}

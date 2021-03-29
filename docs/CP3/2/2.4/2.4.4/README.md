@@ -50,6 +50,7 @@ Bài toán: Cho mảng a có n phần tử. Có 1 loại truy vấn:
 
 Sau cùng xuất ra mảng a.
 ## So sánh fenwick tree và segment tree
+
 |Feature |Segment Tree| Fenwick Tree|
 | ------ |--- | --- |
 |Build Tree from Array| O(n) |O(m log n)|
@@ -60,10 +61,4 @@ Sau cùng xuất ra mảng a.
 |Length of Code |Longer |Shorter|
 ## Quan sát phép toán i & -i
 Ví dụ: 101 -> 101+1=110 -> 110+10=1000 -> 1000+1000=10000...
-tương tự với thao tác trừ, chắc là vịt con đã nhận ra quy luật rồi nhỉ
-
-| What    | Follows  |
-| ------- | -------- |
-| A table | A header |
-| A table | A header |
-| A table | A header |
+tương tự với thao tác trừ, chắc là vịt con đã nhận ra quy luật rồi nhỉ:)

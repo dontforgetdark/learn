@@ -1,3 +1,6 @@
+---
+sort: 1
+---
 # Môn học mạng máy tính
 
-Khoá học bám sát giáo trình của ĐH KHTN TP.HCM
+Khoá học sử dụng giáo trình của ĐH KHTN TP.HCM

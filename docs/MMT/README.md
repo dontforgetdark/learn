@@ -1,3 +1,8 @@
+---
+sort: 1
+---
 # Môn học mạng máy tính
 
-Khoá học sử dụng giáo trình của ĐH KHTN TP.HCM
+Tài liệu tham khảo:
+- giáo trình ĐH KHTN TP.HCM
+- sách nhập môn MMT - Hồ Đắc Phương

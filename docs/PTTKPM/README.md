@@ -1,5 +1,5 @@
 ---
-sort:1
+sort: 1
 ---
 
 # Phân tích thiết kế phần mềm
